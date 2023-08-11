@@ -2,7 +2,7 @@
 
 Ingeniero de Sistemas con pasión por la programación y las tecnologías web. Siempre explorando, aprendiendo y construyendo cosas interesantes en el mundo digital.
 
-🔭 Actualmente enfocado en expandir mis habilidades en el desarrollo frontend y backend, creando soluciones interactivas y funcionales que hacen la vida en línea más emocionante y eficiente.
+🔭 Actualmente enfocado en expandir mis habilidades en el desarrollo backend, creando soluciones interactivas y funcionales que hacen la vida en línea más emocionante y eficiente.
 
 🛠️ **Tecnologías:** HTML, CSS, JavaScript, PHP
 
